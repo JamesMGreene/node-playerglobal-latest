@@ -1,0 +1,12 @@
+{
+  "node": true,
+  "boss": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "globalstrict": true,
+  "indent": 2,
+  "multistr": false,
+  "strict": true,
+  "trailing": true
+}
