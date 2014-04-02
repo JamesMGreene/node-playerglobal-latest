@@ -23,5 +23,9 @@ console.log('PlayerGlobal root path: ' + pg.path);
 
 // Install the PlayerGlobal dir into a Flex SDK dir
 var FLEX_HOME = process.env['FLEX_HOME'] || __dirname;
-pg.install(FLEX_HOME);
+pg.install(FLEX_HOME, function(err) {
+  if (err) {
+    console.error('Failed to install the Flash API libraries!\nError: ' + err);
+  }
+});
 ```

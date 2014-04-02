@@ -1,6 +1,6 @@
 {
   "name": "playerglobal-latest",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A Node.js module wrapper for downloading/installing ALL versions of the \"playerglobal.swc\" API library in order to target all modern versions of Flash Player.",
   "main": "index.js",
   "scripts": {
