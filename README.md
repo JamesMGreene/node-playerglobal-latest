@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JamesMGreene/node-playerglobal-latest.png)](https://travis-ci.org/JamesMGreene/node-playerglobal-latest)
+
 # node-playerglobal-latest
 
 A Node.js module wrapper for downloading/installing _**ALL**_ versions of the "playerglobal.swc" API library in order to target all modern versions of Flash Player. Downloads the latest versions upon install, rather than during prepublish.
@@ -17,7 +19,7 @@ npm install playerglobal-latest
 ## Usage
 
 ```js
-var pg = require('playerglobal');
+var pg = require('playerglobal-latest');
 
 console.log('PlayerGlobal root path: ' + pg.path);
 
