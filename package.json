@@ -1,6 +1,6 @@
 {
   "name": "playerglobal-latest",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A Node.js module wrapper for downloading/installing ALL versions of the \"playerglobal.swc\" API library in order to target all modern versions of Flash Player.",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "author": {
     "name": "James M. Greene",
     "email": "james.m.greene@gmail.com",
-    "url": "http://jamesgreene.net/"
+    "url": "http://greene.io/"
   },
   "license": "MIT",
   "bugs": {

@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/JamesMGreene/node-playerglobal-latest.png)](https://travis-ci.org/JamesMGreene/node-playerglobal-latest)
+[![Build Status](https://travis-ci.org/JamesMGreene/node-playerglobal-latest.png?branch=master)](https://travis-ci.org/JamesMGreene/node-playerglobal-latest)
 
 # node-playerglobal-latest
 
